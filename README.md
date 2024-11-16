@@ -1,9 +1,9 @@
 # Wuduh
 Wuduh_AutomationTask
 
-dears,
+Dears,
 
-kindly note this project includes the four cases that are requested using the Rest-Assured & TestNG framework:
+Kindly note this project includes four cases that are requested using the Rest-Assured & TestNG framework:
 1-Schema Validation
 2-Response Codes
 3-Data Verification
